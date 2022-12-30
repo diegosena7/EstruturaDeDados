@@ -2,7 +2,7 @@ package com.dsena7.estruturadados.buscas;
 
 /*
  * Esse algoritmo tem como função bucar o menor elemento da sequência e colocar esse elemento na primeira posição do array, assim seleciona
- * e ordena crescentemente os valores.
+ * e ordena  crescentemente os valores.
  * Neste algoritmo usamos a variável j para verificar se o valor posterior a variável i é maior, para assim fazer a ordenação. Usamos a variável
  * aux ara guardar o valor e assim fazermos as trocas de posições.
  */
