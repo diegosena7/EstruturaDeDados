@@ -2,6 +2,9 @@ package com.dsena7.estruturadados.grafos;
 
 import java.util.ArrayList;
 
+/*
+ * Os vértices são elementos, inter-relacionados de alguma forma, pertencentes a um conjunto discreto (enumerável).
+ */
 public class Vertice<T> {
 
 	 private T dado;

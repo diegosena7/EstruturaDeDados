@@ -1,5 +1,8 @@
 package com.dsena7.estruturadados.grafos;
 
+/*
+ * As arestas são elementos de um conjunto discreto que descrevem, de alguma forma, as relações entre os vértices do grafo.
+ */
 public class Aresta<T> {
 
 	private Double peso;
